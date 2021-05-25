@@ -1,0 +1,15 @@
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/bin/Debug/net5.0/calculator-game.deps.json
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/bin/Debug/net5.0/calculator-game.runtimeconfig.json
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/bin/Debug/net5.0/calculator-game.runtimeconfig.dev.json
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/bin/Debug/net5.0/calculator-game.dll
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/bin/Debug/net5.0/ref/calculator-game.dll
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/bin/Debug/net5.0/calculator-game.pdb
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/calculator-game.csprojAssemblyReference.cache
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/calculator-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/calculator-game.AssemblyInfoInputs.cache
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/calculator-game.AssemblyInfo.cs
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/calculator-game.csproj.CoreCompileInputs.cache
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/calculator-game.dll
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/ref/calculator-game.dll
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/calculator-game.pdb
+/Users/disam/Desktop/SCHOOL/c-sharp-course/final-project/obj/Debug/net5.0/calculator-game.genruntimeconfig.cache
