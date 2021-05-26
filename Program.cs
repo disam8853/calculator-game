@@ -5,7 +5,7 @@
 using System;
 using System.Timers;
 
-namespace hw1
+namespace calculatorGame
 {
   public struct Player
   {
